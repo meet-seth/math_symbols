@@ -1,0 +1,5 @@
+This github repo contains code to implement the math symbols recognition model.
+This model has been trained through Tensorflow's Object Detection API and trained
+on Math Symbols Dataset available on Kaggle.
+The code given provided has with comments which can be referred to, to understand the
+working of the code and in case a developer wants to edit it.
